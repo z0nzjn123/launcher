@@ -16,7 +16,7 @@
     <Fullpath></Fullpath>
     <Filename>gprp.asi</Filename>
     <Hash>a54532ef579c19450c7e29bc243e75c9</Hash>
-    <Byte>942592</Byte>
+    <Byte>801792</Byte>
   </File>
   <File>
     <Fullpath></Fullpath>
@@ -52,6 +52,6 @@
     <Fullpath>models\txd\</Fullpath>
     <Filename>gprp.txd</Filename>
     <Hash>74fdeb74b1c26633ef5ebf2c2184d240</Hash>
-    <Byte>3020832</Byte>
+    <Byte>3112904</Byte>
   </File>
 </node>
