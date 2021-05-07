@@ -1,16 +1,17 @@
 <node>
     <patch>
-        <title>Test 1</title>
-        <desc>Test 1</desc>
-        <link>https://SomeUrl.com</link>
+        <date>7/5/2021</date>
+        <desc>Test thông báo 1</desc>
+        <link>https://i.imgur.com/b7w5xZ0.png</link>
+        <img></img>
     </patch>
     <patch>
-        <title>Test 2</title>
+        <date>Test 2</date>
         <desc>Test 2</desc>
         <link>https://SomeUrl.com</link>
     </patch>
     <patch>
-        <title>Test 3</title>
+        <date>Test 3</date>
         <desc>Test 3</desc>
         <link>https://SomeUrl.com</link>
     </patch>
