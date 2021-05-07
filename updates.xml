@@ -6,13 +6,15 @@
         <img>https://i.imgur.com/b7w5xZ0.png</img>
     </patch>
     <patch>
-        <date>Test 2</date>
-        <desc>Test 2</desc>
-        <link>https://SomeUrl.com</link>
+        <date>7/5/2021</date>
+        <desc>Test thông báo 2</desc>
+        <link>www.ne-rp.online</link>
+        <img>https://i.imgur.com/b7w5xZ0.png</img>
     </patch>
     <patch>
-        <date>Test 3</date>
-        <desc>Test 3</desc>
-        <link>https://SomeUrl.com</link>
+        <date>7/5/2021</date>
+        <desc>Test thông báo 3</desc>
+        <link>www.ne-rp.online</link>
+        <img>https://i.imgur.com/b7w5xZ0.png</img>
     </patch>
 </node>
