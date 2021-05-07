@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <node>
   <File>
     <Fullpath></Fullpath>
@@ -14,27 +14,33 @@
   </File>
   <File>
     <Fullpath></Fullpath>
-    <Filename>gprp.asi</Filename>
-    <Hash>a54532ef579c19450c7e29bc243e75c9</Hash>
-    <Byte>801792</Byte>
-  </File>
-  <File>
-    <Fullpath></Fullpath>
     <Filename>gta_sa.exe</Filename>
     <Hash>2b5066bd4097ac2944ce6a9cf8fe5677</Hash>
     <Byte>14383616</Byte>
   </File>
   <File>
     <Fullpath></Fullpath>
+    <Filename>nerp addon.asi</Filename>
+    <Hash>cfa2d51d5c84e3b34959d1c426c182df</Hash>
+    <Byte>63488</Byte>
+  </File>
+  <File>
+    <Fullpath></Fullpath>
+    <Filename>nerp.asi</Filename>
+    <Hash>4fa341330cc4cd28b61c382b97af904b</Hash>
+    <Byte>766976</Byte>
+  </File>
+  <File>
+    <Fullpath></Fullpath>
     <Filename>samp.exe</Filename>
-    <Hash>ba64bb37a1c6588fbca0075c3ddc4a2a</Hash>
-    <Byte>412672</Byte>
+    <Hash>00c85345430a6d381aa9a727b0033a7f</Hash>
+    <Byte>1519104</Byte>
   </File>
   <File>
     <Fullpath></Fullpath>
     <Filename>Updater.exe</Filename>
-    <Hash>4ee4ff3e9bee92b3a0947ef02d70aa55</Hash>
-    <Byte>649728</Byte>
+    <Hash>ac110319c1e94e337f1894effb80ae88</Hash>
+    <Byte>2854400</Byte>
   </File>
   <File>
     <Fullpath></Fullpath>
@@ -47,11 +53,5 @@
     <Filename>vorbisHooked.dll</Filename>
     <Hash>2b7b803311d2b228f065c45d13e1aeb2</Hash>
     <Byte>65536</Byte>
-  </File>
-  <File>
-    <Fullpath>models\txd\</Fullpath>
-    <Filename>gprp.txd</Filename>
-    <Hash>74fdeb74b1c26633ef5ebf2c2184d240</Hash>
-    <Byte>3112904</Byte>
   </File>
 </node>
