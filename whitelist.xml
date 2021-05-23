@@ -102,4 +102,16 @@
     <Hash>47fdfb78849bb2e822397695c08574d4</Hash>
     <Byte>145920</Byte>
   </File>
+  <File>
+    <Fullpath></Fullpath>
+    <Filename>IDE_DD_Tweaker.asi</Filename>
+    <Hash>ae7b9a1e74988c7e714af2e6cdc8a07a</Hash>
+    <Byte>68608</Byte>
+  </File>
+  <File>
+    <Fullpath></Fullpath>
+    <Filename>SAMPGraphicRestore.asi</Filename>
+    <Hash>01e70dd69019f9d965f3f0c4711dcce4</Hash>
+    <Byte>185856</Byte>
+  </File>
 </node>
