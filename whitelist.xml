@@ -114,4 +114,34 @@
     <Hash>01e70dd69019f9d965f3f0c4711dcce4</Hash>
     <Byte>185856</Byte>
   </File>
+  <File>
+    <Fullpath></Fullpath>
+    <Filename>CLEO.asi</Filename>
+    <Hash>380ba63a1cb18d09335782d3f0a3a682</Hash>
+    <Byte>264704</Byte>
+  </File>
+  <File>
+    <Fullpath>cleo\</Fullpath>
+    <Filename>anticrasher_03DL.cs</Filename>
+    <Hash>685def641000a58c69abb7eb7018d2bf</Hash>
+    <Byte>18218</Byte>
+  </File>
+  <File>
+    <Fullpath>cleo\</Fullpath>
+    <Filename>FileSystemOperations.cleo</Filename>
+    <Hash>ec7fc1b2d143ce3de49ee800aeb9d2d5</Hash>
+    <Byte>65024</Byte>
+  </File>
+  <File>
+    <Fullpath>cleo\</Fullpath>
+    <Filename>IniFiles.cleo</Filename>
+    <Hash>a7fc5491f5436a81b04d6fe55ad7e07d</Hash>
+    <Byte>81920</Byte>
+  </File>
+  <File>
+    <Fullpath>cleo\</Fullpath>
+    <Filename>IntOperations.cleo</Filename>
+    <Hash>03910b057c88c30a8609e74a5a908976</Hash>
+    <Byte>58368</Byte>
+  </File>
 </node>
