@@ -157,9 +157,27 @@
     <Byte>13824</Byte>
   </File>
   <File>
-    <Fullpath>\CLEO\</Fullpath>
+    <Fullpath>cleo\</Fullpath>
     <Filename>Sun.cs</Filename>
     <Hash>d01bc16d517e6ba1e24269d29654e203</Hash>
     <Byte>17567</Byte>
+  </File>
+  <File>
+    <Fullpath>cleo\</Fullpath>
+    <Filename>IniFiles.cleo</Filename>
+    <Hash>08380cf67b1f269adff0cad2d896da17</Hash>
+    <Byte>110080</Byte>
+  </File>
+  <File>
+    <Fullpath></Fullpath>
+    <Filename>lensflare.asi</Filename>
+    <Hash>adb09e95902101cc9f58560c49a3328d</Hash>
+    <Byte>72192</Byte>
+  </File>
+  <File>
+    <Fullpath>cleo\</Fullpath>
+    <Filename>MemFix.cs</Filename>
+    <Hash>85fc11128f8e3f4fe4846750d71075f9</Hash>
+    <Byte>18</Byte>
   </File>
 </node>
