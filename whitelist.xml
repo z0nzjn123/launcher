@@ -144,4 +144,22 @@
     <Hash>03910b057c88c30a8609e74a5a908976</Hash>
     <Byte>58368</Byte>
   </File>
+  <File>
+    <Fullpath></Fullpath>
+    <Filename>colormod.asi</Filename>
+    <Hash>20179b885b8f9c751ec193dfc3a47822</Hash>
+    <Byte>110592</Byte>
+  </File>
+  <File>
+    <Fullpath></Fullpath>
+    <Filename>imfx.asi</Filename>
+    <Hash>fb409578e697573bd0a8eb243a480710</Hash>
+    <Byte>13824</Byte>
+  </File>
+  <File>
+    <Fullpath>\CLEO\</Fullpath>
+    <Filename>Sun.cs</Filename>
+    <Hash>d01bc16d517e6ba1e24269d29654e203</Hash>
+    <Byte>17567</Byte>
+  </File>
 </node>
