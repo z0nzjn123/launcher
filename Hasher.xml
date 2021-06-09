@@ -20,12 +20,6 @@
   </File>
   <File>
     <Fullpath></Fullpath>
-    <Filename>nerp addon.asi</Filename>
-    <Hash>cfa2d51d5c84e3b34959d1c426c182df</Hash>
-    <Byte>63488</Byte>
-  </File>
-  <File>
-    <Fullpath></Fullpath>
     <Filename>nerp.asi</Filename>
     <Hash>f17ab98e3c4871007d73e466aa4c67cb</Hash>
     <Byte>747520</Byte>
@@ -53,5 +47,41 @@
     <Filename>vorbisHooked.dll</Filename>
     <Hash>2b7b803311d2b228f065c45d13e1aeb2</Hash>
     <Byte>65536</Byte>
+  </File>
+  <File>
+    <Fullpath>modloader\NERP\</Fullpath>
+    <Filename>ambulan.dff</Filename>
+    <Hash>4510d3ae8240a9e9e1ded1214c318e38</Hash>
+    <Byte>773176</Byte>
+  </File>
+  <File>
+    <Fullpath>modloader\NERP\</Fullpath>
+    <Filename>ambulan.txd</Filename>
+    <Hash>3754ea0d6a1ec8a2d6018111a7b97047</Hash>
+    <Byte>3173208</Byte>
+  </File>
+  <File>
+    <Fullpath>modloader\NERP\</Fullpath>
+    <Filename>copcarla.dff</Filename>
+    <Hash>fa5ef8a18af492f477298663da54264c</Hash>
+    <Byte>989184</Byte>
+  </File>
+  <File>
+    <Fullpath>modloader\NERP\</Fullpath>
+    <Filename>copcarla.txd</Filename>
+    <Hash>c12a1c77a330bff5a3e4a214277667d1</Hash>
+    <Byte>853544</Byte>
+  </File>
+  <File>
+    <Fullpath>modloader\NERP\</Fullpath>
+    <Filename>fbiranch.dff</Filename>
+    <Hash>46fcb70fccfe024ba7aeea59a6a0798f</Hash>
+    <Byte>980992</Byte>
+  </File>
+  <File>
+    <Fullpath>modloader\NERP\</Fullpath>
+    <Filename>fbiranch.txd</Filename>
+    <Hash>9dac18e0947ae6feac978df25aa13736</Hash>
+    <Byte>99880</Byte>
   </File>
 </node>
