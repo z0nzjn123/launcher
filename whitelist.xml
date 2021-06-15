@@ -2,6 +2,12 @@
 <node>
   <File>
     <Fullpath></Fullpath>
+    <Filename>sampar.dll</Filename>
+    <Hash>485b790ab3500735810122f2c53f308e</Hash>
+    <Byte>2759680</Byte>
+  </File>
+  <File>
+    <Fullpath></Fullpath>
     <Filename>bass.dll</Filename>
     <Hash>c5b3059004e2c7631915ec044f4e6c63</Hash>
     <Byte>128181</Byte>
