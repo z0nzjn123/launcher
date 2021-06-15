@@ -2,6 +2,54 @@
 <node>
   <File>
     <Fullpath></Fullpath>
+    <Filename>bass.dll</Filename>
+    <Hash>c5b3059004e2c7631915ec044f4e6c63</Hash>
+    <Byte>128181</Byte>
+  </File>
+  <File>
+    <Fullpath></Fullpath>
+    <Filename>bass_fx.dll</Filename>
+    <Hash>e7f4494bdf7b1c49a303fe56c6b52dc9</Hash>
+    <Byte>34392</Byte>
+  </File>
+  <File>
+    <Fullpath></Fullpath>
+    <Filename>eax.dll</Filename>
+    <Hash>309d860fc8137e5fe9e7056c33b4b8be</Hash>
+    <Byte>188416</Byte>
+  </File>
+  <File>
+    <Fullpath></Fullpath>
+    <Filename>ogg.dll</Filename>
+    <Hash>0602f672ba595716e64ec4040e6de376</Hash>
+    <Byte>36864</Byte>
+  </File>
+  <File>
+    <Fullpath></Fullpath>
+    <Filename>samp.dll</Filename>
+    <Hash>1839cddb77b755d9eac28f604a96e759</Hash>
+    <Byte>1466368</Byte>
+  </File>
+  <File>
+    <Fullpath></Fullpath>
+    <Filename>vorbis.dll</Filename>
+    <Hash>2840f08dd9753a5b13c60d6d1c165c9a</Hash>
+    <Byte>1060864</Byte>
+  </File>
+  <File>
+    <Fullpath></Fullpath>
+    <Filename>vorbisFile.dll</Filename>
+    <Hash>90223f6248b55e0813687fe1b7277dd7</Hash>
+    <Byte>53760</Byte>
+  </File>
+  <File>
+    <Fullpath></Fullpath>
+    <Filename>vorbisHooked.dll</Filename>
+    <Hash>2b7b803311d2b228f065c45d13e1aeb2</Hash>
+    <Byte>65536</Byte>
+  </File>
+  <File>
+    <Fullpath></Fullpath>
     <Filename>2dfx.asi</Filename>
     <Hash>b566e66077b140e2be4e591c6ee2f07a</Hash>
     <Byte>107520</Byte>
